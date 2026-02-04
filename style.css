@@ -4,9 +4,22 @@ body {
 
 header {
     background-color: darkred;
+    padding: 0;
+    margin: 0;
 }
 
 ul {
     background-color: bisque;
     border-radius: 5px;
+    height: 100rem;
+}
+
+li {
+    background-color: blanchedalmond;
+    box-shadow: 2px, 2px black;
+    font-size: 35px;
+}
+
+h1 {
+    color: aliceblue;
 }
