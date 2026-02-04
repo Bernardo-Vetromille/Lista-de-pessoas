@@ -1,0 +1,12 @@
+body {
+    background-color: antiquewhite;
+}
+
+header {
+    background-color: darkred;
+}
+
+ul {
+    background-color: bisque;
+    border-radius: 5px;
+}
